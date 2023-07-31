@@ -1,6 +1,6 @@
 # Indian States Guessing Game
 
-![India Map](2a10d13ef89063732136ae9b4c8d7da6.gif)
+![India Map](Screenshot_20230731_135157.png)
 
 This is a simple Python guessing game that tests your knowledge of Indian states. You need to guess the names of the Indian states correctly. If you don't know a state or want to exit the game, simply type "Exit."
 
